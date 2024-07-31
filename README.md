@@ -1,4 +1,4 @@
-# ![Weather App](weather-app.PNG)
+# ![Weather Web](weather-app.PNG)
 
 A simple weather application built with Laravel 10 that utilizes the OpenWeather API to provide real-time weather information.
 
@@ -11,7 +11,7 @@ A simple weather application built with Laravel 10 that utilizes the OpenWeather
 
 ### Prerequisites
 
--   PHP >= 7.4
+-   PHP >= 8.1
 -   Composer
 -   Laravel CLI
 
@@ -62,7 +62,7 @@ Visit http://localhost:8000 in your browser.
 ## Usage
 
 Navigate to the home page.
-Enter the city name or coordinates.
+Enter the city name.
 Click on the "Search" button to retrieve current conditions or forecasts.
 
 ## Contributing
